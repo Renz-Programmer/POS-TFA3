@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -67,3 +68,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+=======
+# POS-TFA3
+[TECHNICAL] [AI-ASSISTED] Technical Fomative Assessment 3: Module 3
+>>>>>>> c45d9a81f2e8043785a7fce3022615aef15935c4
